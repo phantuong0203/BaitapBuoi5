@@ -23,7 +23,7 @@ namespace BaitapBuoi5
             {
                 Console.WriteLine(" Hay nhap phan tu thu {0}:", i);
                 arr[i] = double.Parse(Console.ReadLine());
-                Console.WriteLine(" Phan tu thu {0}= {1}", i, arr[i]);
+                Console.WriteLine(" Phan tu thu {0} = {1}", i, arr[i]);
             }
             Console.WriteLine("------------------------------------------------------------------------------------");
             Console.WriteLine("Cau 2: In mang du lieu tren theo chieu dao nguoc !");
